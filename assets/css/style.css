@@ -1,0 +1,35 @@
+.koders-banner:active, .koders-banner:hover{
+    color: #e6a078;
+    font-weight: 500;
+  }
+  .koders{
+    padding: 5px;
+    background-color: #027368;
+    color: #fff;
+  }
+  
+  .koders-banner{
+    color: #f1f1f1;
+  }
+  .img-responsive{
+      width: 100%;
+  }
+  .img-compromiso{
+      width: 150px;
+      max-height: 100%;
+  }
+
+  .img-logo{
+    width: 200px;
+    max-height: 150px;
+    margin: 0 5px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .carousel-inner .carousel-item.active,
+  .carousel-inner .carousel-item-next,
+  .carousel-inner .carousel-item-prev {
+      display: flex;
+  }
+  
